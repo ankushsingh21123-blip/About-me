@@ -5,12 +5,14 @@ AI Builder | Technology Enthusiast | Scaler School of Technology | BITS Data Sci
 I am a passionate technology enthusiast focused on building AI-powered, scalable systems that solve real-world problems. My goal is to create high-impact solutions in artificial intelligence, hyperlocal commerce, robotics, and automation by combining strong technical foundations with practical execution and innovation.
 
 Education 🎓
+
 • Computer Science – Scaler School of Technology
 • BS in Data Science – BITS Pilani
 • Schooling – Bhashyam Institutions, Hyderabad (School Top Ranker)
 • Currently based in Bangalore
 
 Academic Achievements :
+
 • 10/10 GPA – School Top Ranker
 • 92% in Class 12
 • 96 Percentile in JEE Mains
@@ -19,6 +21,7 @@ Academic Achievements :
 • Winner – Multiple Robotics Competitions
 
 Projects:
+
 • Axon – A drone mapping platform leveraging photogrammetry and autonomous computer vision to generate 3D digital twins for structural anomaly detection.
 • Viber AI – A fully autonomous multi-agent LLM platform that manages the complete software lifecycle, generating full web applications from simple voice or text prompts.
 • AgriSight AI (Agro X) – An integrated ag-tech assistant combining computer vision, satellite data, and multilingual voice AI to deliver comprehensive crop diagnostics and farmer assistance.
@@ -28,6 +31,7 @@ Projects:
 
 Skills 🧠
 Technical:
+
 • AI Agent Development
 • Multi-Agent Systems
 • LLM-based Architecture
@@ -38,6 +42,7 @@ Technical:
 • Robotics Integration
 
 Creative and Leadership:
+
 • Content Creation
 • Creativity and Product Ideation
 • Startup Building
@@ -57,6 +62,7 @@ Open to Collaborate On 🤝
 • Expanding SaaS systems to production scale
 
 Languages:
+
 • Hindi
 • English
 • Telugu
