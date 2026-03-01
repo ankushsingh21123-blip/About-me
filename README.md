@@ -67,13 +67,16 @@ Languages:
 • English
 • Telugu
 • Kannada
+
 Social 🌐
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsingh21123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-singh-8b43b3388/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luckysingh_21/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luckysingh.21/shorts)
 
 Tech Stack:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -95,6 +98,7 @@ Tech Stack:
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF1493?style=for-the-badge)
 
 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=yourgithubusername&theme=tokyonight&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&theme=tokyonight&hide_border=false&layout=compact)
